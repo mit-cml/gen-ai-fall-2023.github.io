@@ -11,7 +11,7 @@
 10-11:30 AM EST on Tuesdays & Thursdays [from Jan 10, 2022 to Jan 26, 2022(6 sessions)]
 
 ## Sign-up Link for this Seminar 
-https://forms.gle/S2WzejmkUwUyqoMM9
+[https://forms.gle/S2WzejmkUwUyqoMM9](https://forms.gle/S2WzejmkUwUyqoMM9)
 
 ## Pre-requisites
 
