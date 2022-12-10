@@ -8,14 +8,17 @@
 [Hal Abelson](https://www.csail.mit.edu/person/hal-abelson)
 
 ## Time and Dates
-10-11:30 AM EST on Tuesdays & Thursdays [from Jan 10, 2023 to Jan 26, 2023(6 sessions)]
+10-11:30 AM EST on Tuesdays & Thursdays [from Jan 10, 2023 to Jan 26, 2023(6 remote sessions)]
+
+## Zoom Link
+[https://mit.zoom.us/j/95419500439](https://mit.zoom.us/j/95419500439)
 
 ## Sign-up Link for this Seminar 
 [https://forms.gle/S2WzejmkUwUyqoMM9](https://forms.gle/S2WzejmkUwUyqoMM9)
 
 ## Pre-requisites
 
-Open to anyone affiliated with MIT and Harvard. We strongly encourage members of MIT RAISE (Responsible AI for Social Empowerment and Education) to attend this seminar. While this seminar will discuss the current advancements and tools in text-to-image generation, its central focus will be on using these tools to create curriculum for K-12 AI Education. 
+Open to anyone affiliated with MIT, Harvard and Wellesley College. We strongly encourage members of MIT RAISE (Responsible AI for Social Empowerment and Education) to attend this seminar. While this seminar will discuss the current advancements and tools in text-to-image generation, its central focus will be on using these tools to create curriculum for K-12 AI Education. 
 
 ## Description
 
