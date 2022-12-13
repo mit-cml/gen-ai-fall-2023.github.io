@@ -53,10 +53,10 @@
 10-11:30 AM EST on Tuesdays & Thursdays [from Jan 10, 2022 to Jan 26, 2022(6 remote sessions)]
 
 ## Zoom Link
-https://mit.zoom.us/j/95419500439
+[https://mit.zoom.us/j/95419500439](https://mit.zoom.us/j/95419500439)
 
 ## Sign-up Link for this Seminar 
-https://forms.gle/S2WzejmkUwUyqoMM9
+[https://forms.gle/S2WzejmkUwUyqoMM9](https://forms.gle/S2WzejmkUwUyqoMM9)
 
 ## Pre-requisites
 
