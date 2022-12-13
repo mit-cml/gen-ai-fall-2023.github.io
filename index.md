@@ -8,7 +8,7 @@
     <figure>
     <img
     src="https://pbs.twimg.com/profile_images/1602560514852167680/jloxgKM5_400x400.jpg"
-    width="300"
+    width="400"
     alt="Prerna Ravi"/>
     <figcaption style="text-align:center;"><a href="https://prernaravi.com/"> Prerna Ravi</a></figcaption>
     </figure>
@@ -18,7 +18,7 @@
     <figure>
     <img
     src="https://raise.mit.edu/images/team-safinah.jpg"
-    width="300"
+    width="400"
     alt="Safinah Ali"/>
     <figcaption style="text-align:center;"><a href="https://safinahali.com/">Safinah Ali</a></figcaption>
     </figure>
@@ -29,7 +29,7 @@
     <figure>
     <img
         src="https://education.mit.edu/wp-content/uploads/bb-plugin/cache/Kate-Moore-pdf-square.jpg"
-        width="300"
+        width="400"
         alt="Kate Moore"/>
     <figcaption style="text-align:center;"><a href="http://www.katemoore.me/">Kate Moore</a></figcaption>
     </figure>
