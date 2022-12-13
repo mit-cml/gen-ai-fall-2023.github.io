@@ -4,7 +4,7 @@
 
 
 <div style="display:flex">
-  <div style="flex:1;">
+  <div >
     <figure>
     <img
     src="https://pbs.twimg.com/profile_images/1602560514852167680/jloxgKM5_400x400.jpg"
@@ -14,7 +14,7 @@
     </figure>
  </div>
 
-<div style="flex:1;">
+<div >
     <figure>
     <img
     src="https://raise.mit.edu/images/team-safinah.jpg"
@@ -25,7 +25,7 @@
 </div>
 
 
-<div style="flex:1;">
+<div >
     <figure>
     <img
         src="https://education.mit.edu/wp-content/uploads/bb-plugin/cache/Kate-Moore-pdf-square.jpg"
