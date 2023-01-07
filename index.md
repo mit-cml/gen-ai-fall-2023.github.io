@@ -23,6 +23,7 @@
     <figcaption style="text-align:center;"><a href="https://safinahali.com/">Safinah Ali</a></figcaption>
     </figure>
 </div>
+</div>
 
 
 <div >
@@ -34,7 +35,7 @@
     <figcaption style="text-align:center;"><a href="http://www.katemoore.me/">Kate Moore</a></figcaption>
     </figure>
 </div>
-</div>
+
 
 
 
@@ -81,6 +82,10 @@ The seminar will comprise six sessions that will be held remotely via zoom. The 
 | 01/19/2023    | K-12 generative AI literacy | Hands-on workshop to investigate existing creative AI curriculum in K-12 education
 | 01/24/2023    | Draft projects and proposals for creative AI literacy | Discuss project proposal and provide peer feedback: <br/>- Target age group <br/>- Learning goals <br/>- Tools used <br/>- Learning activities <br/>- Assessment 
 | 01/26/2023    | Presentations for prepared AI literacy proposals | Class presentations 
+
+## Resources and Links
+
+More to come soon!
 
 ## Contact
 If you have any questions regarding the seminar, please email one of us: 
