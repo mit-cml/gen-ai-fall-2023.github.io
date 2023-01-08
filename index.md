@@ -82,6 +82,8 @@ The seminar will comprise six sessions that will be held remotely via zoom. The 
 
 ## Resources and Links
 
+1) Slack Invite Link for the Seminar: [MIT_IAP23_Image_Generation](https://join.slack.com/t/slack-fsh4446/shared_invite/zt-1mu4i9jjn-GjD6dsCSaFi766fiDrrijw): we will be using this space for content discussion during IAP and beyond. 
+
 More to come soon!
 
 ## Contact
