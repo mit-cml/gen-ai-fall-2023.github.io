@@ -48,7 +48,7 @@
 
 
 ## Time and Dates
-10-11:30 AM EST on Tuesdays & Thursdays [from Jan 10, 2022 to Jan 26, 2022(6 remote sessions)]
+10-11:30 AM EST on Tuesdays & Thursdays [from Jan 10, 2023 to Jan 26, 2023(6 remote sessions)]
 
 ## Zoom Link
 [https://mit.zoom.us/j/95419500439](https://mit.zoom.us/j/95419500439)
