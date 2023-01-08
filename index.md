@@ -1,4 +1,8 @@
-# **IAP Seminar: Introduction to Text-to-Image Generation for K-12 Education**
+<header class="page-header" role="banner">
+      <h1 class="project-name">IAP Seminar: Introduction Text-to-Image Generation for K-12 Education</h1>
+      <h2 class="project-tagline">Organized by MIT CSAIL and MIT Media Lab</h2>
+</header>
+<!-- # **IAP Seminar: Introduction to Text-to-Image Generation for K-12 Education** -->
 
 ## Instructors
   <div >
