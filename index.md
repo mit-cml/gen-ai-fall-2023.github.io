@@ -1,4 +1,4 @@
-# **IAP Seminar: Introduction to Text-to-Image Generation for K-12 Education**
+<!-- # **IAP Seminar: Introduction to Text-to-Image Generation for K-12 Education** -->
 
 ## Instructors
   <div >
