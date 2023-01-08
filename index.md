@@ -1,4 +1,4 @@
-# **IAP Seminar: Introduction to Text-to-Image Generation for K-12 Education**
+# **MIT IAP Seminar 2023: Introduction to Text-to-Image Generation for K-12 Education**
 
 ## Instructors
   <div >
