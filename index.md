@@ -1,9 +1,6 @@
 # **IAP Seminar: Introduction to Text-to-Image Generation for K-12 Education**
 
 ## Instructors
-
-
-<div style="display:flex">
   <div >
     <figure>
     <img
@@ -23,16 +20,16 @@
     <figcaption style="text-align:center;"><a href="https://safinahali.com/">Safinah Ali</a></figcaption>
     </figure>
 </div>
-</div>
+
 
 
 <div >
     <figure>
     <img
         src="https://education.mit.edu/wp-content/uploads/bb-plugin/cache/Kate-Moore-pdf-square.jpg"
-        width="400"
+        width="300"
         alt="Kate Moore"/>
-    <figcaption style="text-align:center;"><a href="http://www.katemoore.me/">Kate Moore</a></figcaption>
+    <figcaption ><a href="http://www.katemoore.me/">Kate Moore</a></figcaption>
     </figure>
 </div>
 
