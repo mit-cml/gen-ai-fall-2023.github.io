@@ -83,6 +83,7 @@ The seminar will comprise six sessions that will be held remotely via zoom. The 
 ## Resources and Links
 
 1) Slack Invite Link for the Seminar: [MIT_IAP23_Image_Generation](https://join.slack.com/t/slack-fsh4446/shared_invite/zt-1mu4i9jjn-GjD6dsCSaFi766fiDrrijw): we will be using this space for content discussion during IAP and beyond. 
+2) (Recommended Read!!) Excellent article from MIT Technology Review summarizing the advances in this field: [Generative AI is changing everything. But what's left when the hype is gone?](https://www.technologyreview.com/2022/12/16/1065005/generative-ai-revolution-art/)
 
 More to come soon!
 
