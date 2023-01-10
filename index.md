@@ -71,9 +71,9 @@ The main goal of the seminar will be to create curriculum using this image gener
 The seminar will comprise six sessions that will be held remotely via zoom. The schedule is summarized below:
 
 
-| Date          | Topic           | Description  | 
-| ------------- |---------------| ------| 
-| 01/10/2023    | Introduction: Exploring generative AI models and their relevance in K-12 AI Literacy | - What are language inference and visual generative AI models and how do they work <br /> - Examples of generative media <br /> - Motivation for teaching this to K-12 students: New media and possibilities for creation and computational creativity and their ethical considerations 
+| Date          | Topic           | Description  | Session Video | Slides | Assignments |
+| ------------- |---------------| ------| --------| ------| -----|
+| 01/10/2023    | Introduction: Exploring generative AI models and their relevance in K-12 AI Literacy | - What are language inference and visual generative AI models and how do they work <br /> - Examples of generative media <br /> - Motivation for teaching this to K-12 students: New media and possibilities for creation and computational creativity and their ethical considerations | [Session 1 video](https://mit.zoom.us/rec/share/hYT3BsuzUp0DY4XmMtphEVKfCdEqTFN40nHiKjWABoK0cnr4CRDA8wTaIEbF8u8i.Ifp9ByF_cKWIwFQ2) | [Session 1 slide deck](https://docs.google.com/presentation/d/1V-G28MT0Po0UDKfzBxAKpZgAwQv85TS4Sw6BgXkz56E/edit?usp=sharing) | [Assignment 1](https://docs.google.com/document/d/1rFwhn-uUAqMsrp4jpR1GmvlApeRK0lJ47vX5IdUv9P8/edit?usp=sharing)
 | 01/12/2023    | Experimenting with the latest generative AI platforms      |   Survey and experiment with some existing platforms: DALL-E 2, Stable Diffusion, Dreamstudio, lexica.art, Midjourney, Canva, DrawThings
 | 01/17/2023    | Technology behind generative AI models     |    Learn more about the technology used by the above tools: Transformers, Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), prompt engineering, diffusion
 | 01/19/2023    | K-12 generative AI literacy | Hands-on workshop to investigate existing creative AI curriculum in K-12 education
@@ -82,7 +82,7 @@ The seminar will comprise six sessions that will be held remotely via zoom. The 
 
 ## Resources and Links
 
-1) Slack Invite Link for the Seminar: [MIT_IAP23_Image_Generation](https://join.slack.com/t/slack-fsh4446/shared_invite/zt-1mu4i9jjn-GjD6dsCSaFi766fiDrrijw): we will be using this space for content discussion during IAP and beyond. 
+1) Slack Invite Link for the Seminar: [MIT_IAP23_Image_Generation](https://join.slack.com/t/slack-fsh4446/shared_invite/zt-1mu4i9jjn-GjD6dsCSaFi766fiDrrijw): we will be using this space for content discussion during IAP and beyond. <br/>
 2) (Recommended Read!!) Excellent article from MIT Technology Review summarizing the advances in this field: [Generative AI is changing everything. But what's left when the hype is gone?](https://www.technologyreview.com/2022/12/16/1065005/generative-ai-revolution-art/)
 
 More to come soon!
