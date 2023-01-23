@@ -83,14 +83,14 @@ The seminar will comprise six sessions that will be held remotely via zoom. The 
 ## Resources and Links
 
 1) Slack Invite Link for the Seminar: [MIT_IAP23_Image_Generation](https://join.slack.com/t/slack-fsh4446/shared_invite/zt-1mu4i9jjn-GjD6dsCSaFi766fiDrrijw): we will be using this space for content discussion during IAP and beyond. <br/>
-2) (Recommended Read!!) Excellent article from MIT Technology Review summarizing the advances in this field: [Generative AI is changing everything. But what's left when the hype is gone?](https://www.technologyreview.com/2022/12/16/1065005/generative-ai-revolution-art/)
-3) How do Diffusion models work: [https://towardsdatascience.com/diffusion-models-made-easy-8414298ce4da](https://towardsdatascience.com/diffusion-models-made-easy-8414298ce4da)
-4) Greg Rutkowski: This artist is dominating AI-generated art. And he’s not happy about it. [https://www.technologyreview.com/2022/09/16/1059598/this-artist-is-dominating-ai-generated-art-and-hes-not-happy-about-it/](https://www.technologyreview.com/2022/09/16/1059598/this-artist-is-dominating-ai-generated-art-and-hes-not-happy-about-it/)
-5) Diffusion models explained: [https://www.youtube.com/watch?v=yTAMrHVG1ew](https://www.youtube.com/watch?v=yTAMrHVG1ew)
-6) Illustrated Stable Diffusion (a bit more technical) [https://jalammar.github.io/illustrated-stable-diffusion/](https://jalammar.github.io/illustrated-stable-diffusion/)
-7) Diffusion Models: A Practical Guide: [https://scale.com/guides/diffusion-models-guide](https://scale.com/guides/diffusion-models-guide)
-8) CLIP (connecting text and images): [https://openai.com/blog/clip/](https://openai.com/blog/clip/) 
-9) Paper: High Resolution Image Synthesis with Latent Diffusion Models (more technical but a great resource): [https://arxiv.org/pdf/2112.10752.pdf](https://arxiv.org/pdf/2112.10752.pdf)
+2) (Recommended Read!!) Excellent article from MIT Technology Review summarizing the advances in this field: [Generative AI is changing everything. But what's left when the hype is gone?](https://www.technologyreview.com/2022/12/16/1065005/generative-ai-revolution-art/) <br/>
+3) How do Diffusion models work: [https://towardsdatascience.com/diffusion-models-made-easy-8414298ce4da](https://towardsdatascience.com/diffusion-models-made-easy-8414298ce4da) <br/>
+4) Greg Rutkowski: This artist is dominating AI-generated art. And he’s not happy about it. [https://www.technologyreview.com/2022/09/16/1059598/this-artist-is-dominating-ai-generated-art-and-hes-not-happy-about-it/](https://www.technologyreview.com/2022/09/16/1059598/this-artist-is-dominating-ai-generated-art-and-hes-not-happy-about-it/) <br/>
+5) Diffusion models explained: [https://www.youtube.com/watch?v=yTAMrHVG1ew](https://www.youtube.com/watch?v=yTAMrHVG1ew) <br/>
+6) Illustrated Stable Diffusion (a bit more technical) [https://jalammar.github.io/illustrated-stable-diffusion/](https://jalammar.github.io/illustrated-stable-diffusion/) <br/>
+7) Diffusion Models: A Practical Guide: [https://scale.com/guides/diffusion-models-guide](https://scale.com/guides/diffusion-models-guide) <br/>
+8) CLIP (connecting text and images): [https://openai.com/blog/clip/](https://openai.com/blog/clip/) <br/>
+9) Paper: High Resolution Image Synthesis with Latent Diffusion Models (more technical but a great resource): [https://arxiv.org/pdf/2112.10752.pdf](https://arxiv.org/pdf/2112.10752.pdf) <br/><br/>
 
 More to come soon!
 
