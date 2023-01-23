@@ -90,6 +90,7 @@ The seminar will comprise six sessions that will be held remotely via zoom. The 
 6) Illustrated Stable Diffusion (a bit more technical) [https://jalammar.github.io/illustrated-stable-diffusion/](https://jalammar.github.io/illustrated-stable-diffusion/)
 7) Diffusion Models: A Practical Guide: [https://scale.com/guides/diffusion-models-guide](https://scale.com/guides/diffusion-models-guide)
 8) CLIP (connecting text and images): [https://openai.com/blog/clip/](https://openai.com/blog/clip/) 
+9) Paper: High Resolution Image Synthesis with Latent Diffusion Models (more technical but a great resource): [https://arxiv.org/pdf/2112.10752.pdf](https://arxiv.org/pdf/2112.10752.pdf)
 
 More to come soon!
 
