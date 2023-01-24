@@ -90,7 +90,8 @@ The seminar will comprise six sessions that will be held remotely via zoom. The 
 6) Illustrated Stable Diffusion (a bit more technical) [https://jalammar.github.io/illustrated-stable-diffusion/](https://jalammar.github.io/illustrated-stable-diffusion/) <br/>
 7) Diffusion Models: A Practical Guide: [https://scale.com/guides/diffusion-models-guide](https://scale.com/guides/diffusion-models-guide) <br/>
 8) CLIP (connecting text and images): [https://openai.com/blog/clip/](https://openai.com/blog/clip/) <br/>
-9) Paper: High Resolution Image Synthesis with Latent Diffusion Models (more technical but a great resource): [https://arxiv.org/pdf/2112.10752.pdf](https://arxiv.org/pdf/2112.10752.pdf) <br/><br/>
+9) Paper: High Resolution Image Synthesis with Latent Diffusion Models (more technical but a great resource): [https://arxiv.org/pdf/2112.10752.pdf](https://arxiv.org/pdf/2112.10752.pdf) <br/>
+10) If you want to play with idioms extension that Parker demo'd, follow the Adding Extensions instructions here: [https://en.scratch-wiki.info/wiki/Extension and look for DallE-dioms](https://en.scratch-wiki.info/wiki/Extension and look for DallE-dioms) <br/><br/>
 
 More to come soon!
 
