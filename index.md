@@ -74,7 +74,7 @@ Fall 2023: Weekly on Tuesdays 1-3 pm
 34-303
 
 ## Sign-up form to indicate interest
-[https://forms.gle/S2WzejmkUwUyqoMM9](https://forms.gle/S2WzejmkUwUyqoMM9)
+[https://forms.gle/JYr6scfT6e2tbkrdA](https://forms.gle/JYr6scfT6e2tbkrdA)
 
 ## Pre-requisites
 6.100A or equivalent; permission of instructor required; enrollment may be limited
@@ -82,7 +82,6 @@ The course is open to undergraduate and graduate students at MIT, Harvard and We
 
 ## Units
 2-0-10
-
 
 ## Description
 
