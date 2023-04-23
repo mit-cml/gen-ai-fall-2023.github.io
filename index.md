@@ -1,4 +1,4 @@
-# **MIT 6.S062: Generative Artificial Intelligence in K-12 Education [Fall 2023]**
+# **MIT 6.S062: Generative Artificial Intelligence in K-12 Education**
 
 
 ## Instructors
