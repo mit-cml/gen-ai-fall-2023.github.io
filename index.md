@@ -78,7 +78,7 @@ Fall 2023: Weekly on Tuesdays 1-3 pm
 
 ## Pre-requisites
 6.100A or equivalent; permission of instructor required; enrollment may be limited
-The course is open to anyone affiliated with MIT, Harvard and Wellesley College. 
+The course is open to undergraduate and graduate students at MIT, Harvard and Wellesley College. 
 
 ## Units
 2-0-10
