@@ -1,5 +1,6 @@
 # **MIT 6.S062: Generative Artificial Intelligence in K-12 Education**
 
+<img src="/assets/img/genai_poster.jpg" alt="Gen AI class poster" />
 
 ## Instructors
 
