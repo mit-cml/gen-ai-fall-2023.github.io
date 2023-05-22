@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.inner {
+    position: relative;
+    max-width: 750px;
+    padding: 20px 10px;
+    margin: 0 auto;
+}
+#header_wrap .inner {
+    padding: 50px 10px 30px 10px;
+    text-align: center;
+    max-width: 100%;
+}
