@@ -4,7 +4,7 @@
 
 ## Instructors
 
-<div>
+<!-- <div>
 <figure>
     <img
         src="https://www.csail.mit.edu/sites/default/files/styles/headshot/public/images/migration/abelson.jpg?h=5636fc5d&itok=ttD7eWss"
@@ -64,8 +64,9 @@
         alt="Kate Moore"/>
     <figcaption ><a href="http://www.katemoore.me/">Kate Moore</a></figcaption>
     </figure>
-</div>
+</div> -->
 
+[Hal Abelson](https://www.csail.mit.edu/person/hal-abelson), [Cynthia Breazeal](https://www.media.mit.edu/people/cynthiab/overview/), [Randall Davis](https://www.csail.mit.edu/person/randall-davis), [Prerna Ravi](https://prernaravi.com/), [Safinah Ali](https://safinahali.com), [Kate Moore](http://www.katemoore.me/) <br>  Massachusetts Institute of Technology 
 
 
 ## Time and Dates
