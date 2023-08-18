@@ -1,6 +1,6 @@
 <!-- # **MIT 6.S062: Generative Artificial Intelligence in K-12 Education** -->
 
-![Gen AI Poster](docs/assets/images/genai_poster.jpg 'Gen AI Poster')
+![Gen AI Poster](docs/assets/images/poster.jpg 'Gen AI Poster')
 
 ## Instructors
 
