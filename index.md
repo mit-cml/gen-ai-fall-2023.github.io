@@ -1,70 +1,8 @@
 <!-- # **MIT 6.S062: Generative Artificial Intelligence in K-12 Education** -->
 
-![Gen AI Poster](docs/assets/images/poster.jpg 'Gen AI Poster')
+![Gen AI Poster](docs/assets/images/poster_updated.jpeg 'Gen AI Poster')
 
 ## Instructors
-
-<!-- <div>
-<figure>
-    <img
-        src="https://www.csail.mit.edu/sites/default/files/styles/headshot/public/images/migration/abelson.jpg?h=5636fc5d&itok=ttD7eWss"
-        width="250"
-        alt="Hal Abelson"/>
-    <figcaption ><a href="https://www.csail.mit.edu/person/hal-abelson">Hal Abelson</a></figcaption>
-</figure>
-</div>
-
-<div>
-<figure>
-    <img
-        src="https://openlearning.mit.edu/sites/default/files/people-photos/cynthia%20breazeal.jpg"
-        width="250"
-        alt="Cynthia Breazeal"/>
-    <figcaption ><a href="https://www.media.mit.edu/people/cynthiab/overview">Cynthia Breazeal</a></figcaption>
-</figure>
-</div>
-
-<div>
-<figure>
-    <img
-        src="https://www.csail.mit.edu/sites/default/files/styles/headshot/public/images/people/profile/Jun%2030%202016%20-%20Digital%20Cognition%20Technologies%20-%20Randy%20Davis%20-%200001%20-%20social.jpg?h=5dd52f74&itok=THaS0U-S"
-        width="250"
-        alt="Randall Davis"/>
-    <figcaption ><a href="https://www.csail.mit.edu/person/randall-davis">Randall Davis</a></figcaption>
-</figure>
-</div>
-
-  <div >
-    <figure>
-    <img
-    src="https://pbs.twimg.com/profile_images/1602560514852167680/jloxgKM5_400x400.jpg"
-    width="250"
-    alt="Prerna Ravi"/>
-    <figcaption ><a href="https://prernaravi.com/"> Prerna Ravi</a></figcaption>
-    </figure>
- </div>
-
-<div >
-    <figure>
-    <img
-    src="https://raise.mit.edu/images/team-safinah.jpg"
-    width="250"
-    alt="Safinah Ali"/>
-    <figcaption ><a href="https://safinahali.com/">Safinah Ali</a></figcaption>
-    </figure>
-</div>
-
-
-
-<div >
-    <figure>
-    <img
-        src="https://education.mit.edu/wp-content/uploads/bb-plugin/cache/Kate-Moore-pdf-square.jpg"
-        width="250"
-        alt="Kate Moore"/>
-    <figcaption ><a href="http://www.katemoore.me/">Kate Moore</a></figcaption>
-    </figure>
-</div> -->
 
 [Hal Abelson](https://www.csail.mit.edu/person/hal-abelson), [Cynthia Breazeal](https://www.media.mit.edu/people/cynthiab/overview/), [Randall Davis](https://www.csail.mit.edu/person/randall-davis), [Prerna Ravi](https://prernaravi.com/), [Safinah Ali](https://safinahali.com), [Kate Moore](http://www.katemoore.me/) <br>  Massachusetts Institute of Technology 
 
