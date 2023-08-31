@@ -137,11 +137,11 @@ Please review MIT’s <a href="http://web.mit.edu/academicintegrity/"> Academic 
 
 ## Inclusion and Respect
 
-Fostering an Inclusive Classroom: MIT policy requires that courses welcome all students of all backgrounds, beliefs, ethnicities, national origins, gender identities, sexual orientations, religious and political affiliations—as well as other visible and nonvisible differences. You should expect and demand to be treated with respect by your classmates and the course staff and, reciprocally, treat your classmates and course staff with respect. Each of us is responsible for creating a safer, more inclusive environment. Unfortunately, incidents of bias or discrimination do occur, whether intentional or unintentional. They contribute to creating an unwelcoming environment for individuals and groups at the university. If any incident occurs that challenges this commitment to a supportive, diverse, inclusive, and equitable environment, please let the course staff know (6s062-staff@lists.csail.mit.edu) so that the issue can be addressed.
+Fostering an Inclusive Classroom: MIT policy requires that courses welcome all students of all backgrounds, beliefs, ethnicities, national origins, gender identities, sexual orientations, religious and political affiliations—as well as other visible and nonvisible differences. You should expect and demand to be treated with respect by your classmates and the course staff and, reciprocally, treat your classmates and course staff with respect. Each of us is responsible for creating a safer, more inclusive environment. Unfortunately, incidents of bias or discrimination do occur, whether intentional or unintentional. They contribute to creating an unwelcoming environment for individuals and groups at the university. If any incident occurs that challenges this commitment to a supportive, diverse, inclusive, and equitable environment, please let the course staff know (6.s062-staff@mit.edu) so that the issue can be addressed.
 
 Access and Disability Accommodations:  MIT policy requires that we stay committed to the principle of equal access. If you are in need of disability accommodations, please speak with Disability and Access Services (DAS) prior to or early in the semester so that accommodation requests can be addressed in a timely fashion. If you have a disability and are not planning to use accommodations, we still recommend meeting with DAS staff to familiarize yourself with their services and resources.
 
-If you have already been approved for accommodations, please get in touch with the course staff (6s062-staff@lists.csail.mit.edu) who will be ready to assist you with implementing the accommodation.
+If you have already been approved for accommodations, please get in touch with the course staff (6.s062-staff@mit.edu) who will be ready to assist you with implementing the accommodation.
 
 ## Email Etiquette 
 
@@ -153,7 +153,7 @@ More to come!
 
 ## Contact
 If you have any questions regarding this course, please email us using the course mailing list: 
-- Course Staff: <6s062-staff@lists.csail.mit.edu>
+- Course Staff: <6.s062-staff@mit.edu>
 
 We have also provided individual instructor emails below (though the mailing list is preferred):
 - Hal Abelson: <hal@mit.edu>
