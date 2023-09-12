@@ -32,7 +32,7 @@ The emergence of transformer architectures in 2017 triggered a breakthrough in m
 
 | Week | Date          | Topic           | Assignments |
 | ------ | ------------- |---------------| -------- | 
-| W1 | 9/12 | Introduction to Generative AI for K12 education. What the class is / what the class is not | Assignment 1 released <br/> Project details released | 
+| W1 | 9/12 | Introduction to Generative AI for K12 education. What the class is / what the class is not | <a href="https://docs.google.com/document/d/1Zq9M3HXkp5vjq-sf_LeBwglBXk1rtNKmED60hY8etrY/edit?usp=sharing">Assignment 1 released </a> <br/> Project details released | 
 | W2 | 9/19 | Generative AI Tools in K12 Education | Assignment 1 due <br/> Assignment 2 released | 
 | W3 | 9/26 | AI: Ethics and Equity | Assignment 2 due <br/> Project check-in 1 due <br/> Assignment 3 released | 
 | W4 | 10/3 | Panel Discussion with K12 Stakeholders (educators, designers, coaches, students) | Assignment 3 due <br/> Assignment 4 released |
