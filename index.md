@@ -30,10 +30,10 @@ The emergence of transformer architectures in 2017 triggered a breakthrough in m
 
 ## Schedule
 
-| Week | Date          | Topic           | Assignments |
-| ------ | ------------- |---------------| -------- | 
+| Week | Date          | Topic           | Assignments | Slides/Links | 
+| ------ | ------------- |---------------| -------- | --------- | 
 | W1 | 9/12 | Introduction to Generative AI for K12 education. What the class is / what the class is not | <a href="https://docs.google.com/document/d/1Zq9M3HXkp5vjq-sf_LeBwglBXk1rtNKmED60hY8etrY/edit?usp=sharing">Assignment 1 released </a> <br/> Project details released | 
-| W2 | 9/19 | Generative AI Tools in K12 Education | Assignment 1 due <br/> Assignment 2 released | 
+| W2 | 9/19 | Generative AI Tools in K12 Education | Assignment 1 due <br/> Assignment 2 released | <a href="https://docs.google.com/presentation/d/1vMg3eTqbW4zCB_MUxue6pCZT3w3tubzTKL2Izzzo7RA/edit?usp=sharing"> Slide Deck</a> <br/> <a href="https://docs.google.com/document/d/1hY271eg09eSDh3ex0RUlLY0oC9YkEHssPJ_lKghe_M4/edit?usp=sharing"> Other Links</a> | 
 | W3 | 9/26 | AI: Ethics and Equity | Assignment 2 due <br/> Project check-in 1 due <br/> Assignment 3 released | 
 | W4 | 10/3 | Panel Discussion with K12 Stakeholders (educators, designers, coaches, students) | Assignment 3 due <br/> Assignment 4 released |
 | W5 | 10/17 | Introduction to Technical Foundations of Generative AI | Assignment 4 due | 
