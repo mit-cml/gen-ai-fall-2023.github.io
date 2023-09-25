@@ -46,6 +46,17 @@ The emergence of transformer architectures in 2017 triggered a breakthrough in m
 | W12 | 12/5 | Project Discussion and Check-in | N/A | 
 | W13 | 12/12 | Final Project Presentations | Final Project due
 
+## Office Hours 
+
+Mondays 3.30 - 4.30pm - Safinah <br/>
+Tuesdays 11-12pm - Kate <br/>
+Wednesdays 12-2 - Hal <br/>
+Wednesdays 3-4pm - Prerna <br/>
+Fridays 2-3pm - Randy <br/>
+
+Office Hours Zoom Link: [https://mit.zoom.us/j/91849336452](https://mit.zoom.us/j/91849336452) <br/>
+
+
 ## Pre-semester Assignment 
 
 We have issued a pre-semester assignment (<a href="https://docs.google.com/document/d/1U2dBKybpGK2gtYM2bePVUM4GHPL-C0VXcb8qbWjq7Ks/edit?usp=sharing">link</a>) to be completed before our first class on September 12. There is nothing to hand in, but it is meant to prepare you to discuss the readings and get set up to work with GPT using Python and Colab. 
