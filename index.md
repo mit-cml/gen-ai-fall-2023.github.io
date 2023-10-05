@@ -34,7 +34,7 @@ The emergence of transformer architectures in 2017 triggered a breakthrough in m
 | ------ | ------------- |---------------| -------- | --------- | 
 | W1 | 9/12 | Introduction to Generative AI for K12 education. What the class is / what the class is not | <a href="https://docs.google.com/document/d/1Zq9M3HXkp5vjq-sf_LeBwglBXk1rtNKmED60hY8etrY/edit?usp=sharing">Assignment 1 released </a> <br/> Project details released | 
 | W2 | 9/19 | Generative AI Tools in K12 Education | Assignment 1 due <br/> <a href = "https://docs.google.com/document/d/1nCkxsIoV9OxRUSIWaGVSJ8rwd3vo5A5540Xhb7ufPnU/edit">Assignment 2 released </a> | <a href="https://docs.google.com/presentation/d/1vMg3eTqbW4zCB_MUxue6pCZT3w3tubzTKL2Izzzo7RA/edit?usp=sharing"> Slide Deck</a>, <br/> <a href="https://docs.google.com/document/d/1hY271eg09eSDh3ex0RUlLY0oC9YkEHssPJ_lKghe_M4/edit?usp=sharing"> Other Links</a> | 
-| W3 | 9/26 | AI: Ethics and Equity | <a href = "https://drive.google.com/drive/folders/1HMozIU3oUrN832YqKSop6UvlQgR84FLD?usp=drive_link"> Assignment 2 due </a> <br/> <a href = "https://drive.google.com/drive/folders/1Z6Qx5JGVGew1qg08nRmQ47K-bgave4G9?usp=drive_link"> Project check-in 1 due </a> <br/> <a href = "https://docs.google.com/document/d/14eRN7wZ8LSbTgDgGDYEQe1qGairHMuh047UJdMPjkLY/edit?usp=sharing"> Assignment 3 released </a> | <a href="https://docs.google.com/presentation/d/1DXGmUOxfOkkPxOQxaUQu7m_xDjPlrlV6oMgogX-M4AU/edit?usp=sharing">Slide Deck</a>  <br/> <a href="https://docs.google.com/document/d/1F3qeKQ1DqVOzZ2xkXsSjY1zetko7BSuNO0HEqqCU61M/edit">Other Links</a>| 
+| W3 | 9/26 | AI: Ethics and Equity | Assignment 2 due <br/> Project check-in 1 due </a> <br/> <a href="https://docs.google.com/document/d/14eRN7wZ8LSbTgDgGDYEQe1qGairHMuh047UJdMPjkLY/edit?usp=sharing"> Assignment 3 released </a> | <a href="https://docs.google.com/presentation/d/1DXGmUOxfOkkPxOQxaUQu7m_xDjPlrlV6oMgogX-M4AU/edit?usp=sharing">Slide Deck</a>  <br/> <a href="https://docs.google.com/document/d/1F3qeKQ1DqVOzZ2xkXsSjY1zetko7BSuNO0HEqqCU61M/edit">Other Links</a>| 
 | W4 | 10/3 | Panel Discussion with K12 Stakeholders (educators, designers, coaches, students) | Assignment 3 due <br/> <a href="https://docs.google.com/document/d/1oBZnSGj6sG6ObWOEjGfoJrrH1w1Y8baalAIRHdaQInI/edit?usp=drive_link">Assignment 4 released</a> | <a href="https://docs.google.com/presentation/d/1LtkCrZMt-3nkucWTlhWMrFo9d3ypZ-uBLnfyMO2GcPI/edit?usp=sharing">Slide Deck</a>,<br/> <a href="https://docs.google.com/document/d/1ibnCd87Ku9OKsQgXO5-c_5RUNn9CfAZ32Lsb-Zxs64c/edit?usp=sharing">Other Links</a>
 | W5 | 10/17 | Introduction to Technical Foundations of Generative AI | Assignment 4 due | 
 | W6 | 10/24 | Applications of Generative AI in Research and Education <br/> Talks from experts | Project check-in 2 due <br/> Assignment 5 released | 
@@ -94,7 +94,7 @@ Project Check-in #3: November 21, 2023 <br/>
 Project In-class Check-in and Feedback: December 5 and December 12, 2023 <br/>
 Final Presentation and Report: December 12, 2023 <br/>
 
-More details on the final project will be distributed on day 1.
+For more details, click <a href="https://docs.google.com/document/d/1EU4EBbbhFaqgFEemRFpDCNKfkuqitXmY-Wmp6wQ-vgk/edit">here</a>.
 
 ## Due Dates and Extensions
 
