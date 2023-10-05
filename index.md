@@ -50,7 +50,7 @@ The emergence of transformer architectures in 2017 triggered a breakthrough in m
 
 Mondays 3.30 - 4.30pm - Safinah <br/>
 Tuesdays 11-12pm - Kate <br/>
-Wednesdays 12-2 - Hal <br/>
+Wednesdays 12-2 - Hal | <a href="https://docs.google.com/document/d/1wMNpla1RDf0oPhcq8sNVRzdPTI-jB0_090c7gkwklqU/edit">Sign up sheet</a> <br/>
 Wednesdays 3-4pm - Prerna <br/>
 Fridays 2-3pm - Randy <br/>
 
