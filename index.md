@@ -37,8 +37,8 @@ The emergence of transformer architectures in 2017 triggered a breakthrough in m
 | W3 | 9/26 | AI: Ethics and Equity | Assignment 2 due <br/> Project check-in 1 due <br/> <a href="https://docs.google.com/document/d/14eRN7wZ8LSbTgDgGDYEQe1qGairHMuh047UJdMPjkLY/edit?usp=sharing"> Assignment 3 released </a> | <a href="https://docs.google.com/presentation/d/1DXGmUOxfOkkPxOQxaUQu7m_xDjPlrlV6oMgogX-M4AU/edit?usp=sharing">Slide Deck</a>  <br/> <a href="https://docs.google.com/document/d/1F3qeKQ1DqVOzZ2xkXsSjY1zetko7BSuNO0HEqqCU61M/edit">Other Links</a>| 
 | W4 | 10/3 | Panel Discussion with K12 Stakeholders (educators, designers, coaches, students) | Assignment 3 due <br/> <a href="https://docs.google.com/document/d/1oBZnSGj6sG6ObWOEjGfoJrrH1w1Y8baalAIRHdaQInI/edit?usp=drive_link">Assignment 4 released</a> | <a href="https://docs.google.com/presentation/d/1LtkCrZMt-3nkucWTlhWMrFo9d3ypZ-uBLnfyMO2GcPI/edit?usp=sharing">Slide Deck</a>,<br/> <a href="https://docs.google.com/document/d/1ibnCd87Ku9OKsQgXO5-c_5RUNn9CfAZ32Lsb-Zxs64c/edit?usp=sharing">Other Links</a>
 | W5 | 10/17 | Introduction to Technical Foundations of Generative AI | Assignment 4 due <br/> <a href = "https://docs.google.com/document/d/1EiRV5F76xLrmIHDdjXwrROyA43HWSMZubIcIVh6Oe58/edit?usp=sharing"> Assignment 5 released </a> | 
-| W6 | 10/24 | Applications of Generative AI in Research and Education <br/> Talks from experts | Assignment 5 due <br/> Project check-in 2 due | 
-| W7 | 10/31 | K12 Educational Technology Development & Usability Testing Methods |  |
+| W6 | 10/24 | Applications of Generative AI in Research and Education <br/> Prompt Engineering | Assignment 5 due <br/> Project check-in 2 due | 
+| W7 | 10/31 | Usability Testing Methods <br/> Project prototypes feedback |  |
 | W8 | 11/8 | History of Disruptive Educational Technology in K12 Education | Assignment 6 released | 
 | W9 | 11/14 | Teacher Professional Development (PD) and AI Literacy | Assignment 6 due | 
 | W10 | 11/21 | AI Education & Policy <br/> Project Check-in | Project check-in 3 due | 
