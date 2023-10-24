@@ -13,6 +13,11 @@ Fall 2023: Weekly on Tuesdays 1-3 pm
 ## Location
 34-303
 
+## Zoom Link for Listeners
+Link: [https://mit.zoom.us/meeting/register/tJUrfu6vpj0tH9brQVVA-EB-_bENWwpY2TAf](https://mit.zoom.us/meeting/register/tJUrfu6vpj0tH9brQVVA-EB-_bENWwpY2TAf) <br/>
+Passcode: GAI-K12-23
+
+
 ## Sign-up form to indicate interest
 [https://forms.gle/JYr6scfT6e2tbkrdA](https://forms.gle/JYr6scfT6e2tbkrdA)
 
