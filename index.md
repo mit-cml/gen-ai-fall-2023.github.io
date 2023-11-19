@@ -44,10 +44,10 @@ The emergence of transformer architectures in 2017 triggered a breakthrough in m
 | W5 | 10/17 | Introduction to Technical Foundations of Generative AI | Assignment 4 due <br/> <a href = "https://docs.google.com/document/d/1EiRV5F76xLrmIHDdjXwrROyA43HWSMZubIcIVh6Oe58/edit?usp=sharing"> Assignment 5 released </a> | <a href="https://docs.google.com/presentation/d/1LtkCrZMt-3nkucWTlhWMrFo9d3ypZ-uBLnfyMO2GcPI/edit?usp=sharing">Slide Deck</a>
 | W6 | 10/24 | Cont: Technical Foundations of Generative AI <br/> Prompt Engineering | Assignment 5 due <br/> <a href = "https://docs.google.com/document/d/1s6LG0QW-CsLkozZl1QzFXheyUrSu8uTj4fGFnT7m02M/edit?usp=sharing"> Assignment 6 Readings and project check-in instructions released </a> <br> Project check-in 2 due | <a href="https://docs.google.com/presentation/d/1LtkCrZMt-3nkucWTlhWMrFo9d3ypZ-uBLnfyMO2GcPI/edit?usp=sharing">Prompt Engineering Slide Deck</a>
 | W7 | 10/31 | Usability Testing Methods <br/> Project prototypes feedback | <a href="https://docs.google.com/document/d/1s6LG0QW-CsLkozZl1QzFXheyUrSu8uTj4fGFnT7m02M/edit?usp=sharing">Readings and Project Check-in Instructions</a> | <a href="https://docs.google.com/presentation/d/1xe-tqG-1V_twipwWbp2KDZiXTVOKGo_5IPCAh0YCVOU/edit?usp=sharing">Usability Testing Slide Deck</a>
-| W9 | 11/7 | Teacher Professional Development (PD) and AI Literacy | <a href = "https://drive.google.com/drive/folders/1U1Vy8EqDn4CfJzaRqrbLk5Z-dZuF2Wky?usp=drive_link"> Assignment 7 released </a> |  <a href="https://docs.google.com/presentation/d/1aosZsjRqHPo4daxM9sUDIvfAC8M1juD1CS6ma4yAgjc/edit?usp=sharing">Slide Deck</a> <br/> <a href="https://docs.google.com/document/d/15ssDCchVmsrQELl_kL5xAq8jeGr0x7RdjfGQLpwVHJA/edit?usp=sharing">Other Links </a> |
-| W8 | 11/14 | History of Disruptive Educational Technology in K12 Education | Assignment 7 due | 
-| W10 | 11/21 | AI Education & Policy <br/> Project Check-in | Project check-in 3 due | 
-| W11 | 11/28 | TBD | N/A | 
+| W8 | 11/7 | Teacher Professional Development (PD) and AI Literacy | <a href = "https://drive.google.com/drive/folders/1U1Vy8EqDn4CfJzaRqrbLk5Z-dZuF2Wky?usp=drive_link"> Assignment 7 released </a> |  <a href="https://docs.google.com/presentation/d/1aosZsjRqHPo4daxM9sUDIvfAC8M1juD1CS6ma4yAgjc/edit?usp=sharing">Slide Deck</a> <br/> <a href="https://docs.google.com/document/d/15ssDCchVmsrQELl_kL5xAq8jeGr0x7RdjfGQLpwVHJA/edit?usp=sharing">Other Links </a> |
+| W9 | 11/14 | Ethical implications of AI in education | Assignment 7 due | <a href="https://docs.google.com/document/d/15ssDCchVmsrQELl_kL5xAq8jeGr0x7RdjfGQLpwVHJA/edit?usp=sharing">Ethical implications handout </a> |
+| W10 | 11/21 | Project Check-in <br/> History of Disruptive Educational Technology in K12 Education | Project check-in 3 due | 
+| W11 | 11/28 | AI Education & Policy | N/A | 
 | W12 | 12/5 | Project Discussion and Check-in | N/A | 
 | W13 | 12/12 | Final Project Presentations | Final Project due
 
