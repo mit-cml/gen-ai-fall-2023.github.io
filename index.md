@@ -47,8 +47,8 @@ The emergence of transformer architectures in 2017 triggered a breakthrough in m
 | W8 | 11/7 | Teacher Professional Development (PD) and AI Literacy | <a href = "https://drive.google.com/drive/folders/1U1Vy8EqDn4CfJzaRqrbLk5Z-dZuF2Wky?usp=drive_link"> Assignment 7 released </a> |  <a href="https://docs.google.com/presentation/d/1aosZsjRqHPo4daxM9sUDIvfAC8M1juD1CS6ma4yAgjc/edit?usp=sharing">Slide Deck</a> <br/> <a href="https://docs.google.com/document/d/15ssDCchVmsrQELl_kL5xAq8jeGr0x7RdjfGQLpwVHJA/edit?usp=sharing">Other Links </a> |
 | W9 | 11/14 | Ethical implications of AI in education | Assignment 7 due | <a href="https://docs.google.com/document/d/15ssDCchVmsrQELl_kL5xAq8jeGr0x7RdjfGQLpwVHJA/edit?usp=sharing">Ethical implications handout </a> |
 | W10 | 11/21 | Project Check-in <br/> History of Disruptive Educational Technology in K12 Education | Project check-in 3 due | 
-| W11 | 11/28 | AI Education & Policy | N/A | 
-| W12 | 12/5 | Project Discussion and Check-in | N/A | 
+| W11 | 11/28 | AI Education & Policy <br/> AI hype | N/A | 
+| W12 | 12/5 | Evaluating Existing GenAI Tools and Curriculum | N/A | 
 | W13 | 12/12 | Final Project Presentations | Final Project due
 
 ## Office Hours 
