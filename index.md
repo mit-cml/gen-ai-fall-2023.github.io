@@ -47,6 +47,9 @@ The emergence of transformer architectures in 2017 triggered a breakthrough in m
 | W12 | 12/5 | Evaluating Existing GenAI Tools and Curriculum | N/A | <a href="https://docs.google.com/presentation/d/1uakU77rLVgzUNxU7clQcM0dPZ5csi8GV1x2WY6DDqhg/edit?usp=sharing">Slide Deck</a> <br/> <a href="https://docs.google.com/document/d/1l7e6jLl7Ht4A96Q0QXjur0uHqMTSboq4k-4u94vzpdw/edit?usp=sharing">Class Links </a> | 
 | W13 | 12/12 | Final Project Presentations | Final Project Report and Presentation due <a href = "https://mit.zoom.us/rec/share/8l40IizGcNUR4hbuwK20Yt6twt5Sa6YlMkb6hDB7VJNG_IPsaECs1XWW6CrFdNL2._ULbRU368juZqiUb"> | Presentation recordings </a> |
 
+## Student presentations
+
+
 ## Office Hours 
 
 Mondays 3.30 - 4.30pm - Safinah <br/>
