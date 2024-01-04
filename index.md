@@ -4,7 +4,12 @@
 
 ## Instructors
 
-[Hal Abelson](https://www.csail.mit.edu/person/hal-abelson), [Cynthia Breazeal](https://www.media.mit.edu/people/cynthiab/overview/), [Randall Davis](https://www.csail.mit.edu/person/randall-davis), [Prerna Ravi](https://prernaravi.com/), [Safinah Ali](https://safinahali.com), [Kate Moore](http://www.katemoore.me/) <br>  Massachusetts Institute of Technology 
+[Hal Abelson](https://www.csail.mit.edu/person/hal-abelson): Hal Abelson is a Professor at MIT's Computer Science and Engineering in the Department of Electrical Engineering and Computer Science. <br>
+[Safinah Ali](https://safinahali.com): Safinah Ali is a PhD candidate at MIT's Media Lab. <br>
+[Prerna Ravi](https://prernaravi.com/): Prerna Ravi is a PhD student at MIT's Electrical Engineering and Computer Science Department. <br>
+[Kate Moore](http://www.katemoore.me/): Kate Moore is a Research Scientist at MIT's STEP Lab. <br>
+[Cynthia Breazeal](https://www.media.mit.edu/people/cynthiab/overview/): Cynthia Breazeal is a Professor of Media Arts and Sciences at MIT's Media Lab and the Director of Open Learning at MIT. <br>
+[Randall Davis](https://www.csail.mit.edu/person/randall-davis): Randy Davis is a Professor at MIT's Computer Science and Engineering in the Department of Electrical Engineering and Computer Science. <br>
 
 
 ## Time and Dates
@@ -12,14 +17,6 @@ Fall 2023: Weekly on Tuesdays 1-3 pm
 
 ## Location
 34-303
-
-## Zoom Link for Listeners
-Link: [https://mit.zoom.us/meeting/register/tJUrfu6vpj0tH9brQVVA-EB-_bENWwpY2TAf](https://mit.zoom.us/meeting/register/tJUrfu6vpj0tH9brQVVA-EB-_bENWwpY2TAf) <br/>
-Passcode: GAI-K12-23
-
-
-## Sign-up form to indicate interest
-[https://forms.gle/JYr6scfT6e2tbkrdA](https://forms.gle/JYr6scfT6e2tbkrdA)
 
 ## Pre-requisites
 6.100A or equivalent; permission of instructor required; enrollment may be limited
@@ -31,7 +28,6 @@ The course is open to undergraduate and graduate students at MIT, Harvard and We
 ## Description
 
 The emergence of transformer architectures in 2017 triggered a breakthrough in machine learning that today lets anyone create computer-generated essays, stories, pictures, music, videos and programs from high-level prompts in natural language, all without the need to code.  That has stimulated fervent discussion among educators about the implications of generative AI systems for curricula and teaching methods across a broad range of subjects.  It has also raised questions of how to understand both these systems and the at times overstated claims made for them. This class will introduce the foundations of generative AI technology and participants will explore new opportunities it enables for K-12 education.  It will also describe and explore how an analytical frame of mind can help make clear the core issues underlying both the successes and failures of these systems. Much of the work will be project-based involving implementing innovative teaching and learning tools and testing these with K-12 students and teachers.
-
 
 ## Schedule
 
@@ -173,8 +169,8 @@ If you have any questions regarding this course, please email us using the cours
 
 We have also provided individual instructor emails below (though the mailing list is preferred):
 - Hal Abelson: <hal@mit.edu>
-- Cynthia Breazeal: <cynthiab@media.mit.edu>
-- Randall Davis: <davis@csail.mit.edu>
-- Prerna Ravi: <prernar@mit.edu>
 - Safinah Ali: <safinah@media.mit.edu>
+- Prerna Ravi: <prernar@mit.edu>
 - Kate Moore: <ksmoore@mit.edu>
+- Randall Davis: <davis@csail.mit.edu>
+- Cynthia Breazeal: <cynthiab@media.mit.edu>
