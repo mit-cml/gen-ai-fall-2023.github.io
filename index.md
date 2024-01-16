@@ -45,7 +45,7 @@ The emergence of transformer architectures in 2017 triggered a breakthrough in m
 | W10 | 11/21 | Project Check-In #3 Presentations <br/> Presentation from the BU/MIT Student Innovations Law Clinic | Project check-in 3 due <br/> <a href = "https://docs.google.com/document/d/13lTgUR2G-GHHpM9V-ltFgliT0YuS0sewdpXvGViOiDg/edit?usp=sharing"> Assignment 8 released</a>| 
 | W11 | 11/28 | AI Education & Policy <br/> AI hype | Assignment 8 due | 
 | W12 | 12/5 | Evaluating Existing GenAI Tools and Curriculum | N/A | <a href="https://docs.google.com/presentation/d/1uakU77rLVgzUNxU7clQcM0dPZ5csi8GV1x2WY6DDqhg/edit?usp=sharing">Slide Deck</a> <br/> <a href="https://docs.google.com/document/d/1l7e6jLl7Ht4A96Q0QXjur0uHqMTSboq4k-4u94vzpdw/edit?usp=sharing">Class Links </a> | 
-| W13 | 12/12 | Final Project Presentations | Final Project Report and Presentation due | <a href = "https://mit.zoom.us/rec/share/8l40IizGcNUR4hbuwK20Yt6twt5Sa6YlMkb6hDB7VJNG_IPsaECs1XWW6CrFdNL2._ULbRU368juZqiUb"> Presentation recordings </a> |
+| W13 | 12/12 | Final Project Presentations | Final Project Report and Presentation due | Request staff for presentation recordings |
 
 ## Student presentations
 
